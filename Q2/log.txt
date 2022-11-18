@@ -1,0 +1,6 @@
+Incorrect class reference only in a comment: minor
+Stack overflow: major
+Wrong formula results in calculation errors: critical
+Wrong content in Help text: minor
+Inappropriate error messages: normal
+Doesn’t do what the user expects: critical
